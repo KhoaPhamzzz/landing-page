@@ -21,7 +21,7 @@ function HeroSection() {
       </div>
       <div>
         <img
-          src="/images/happy_guy.png"
+          src="/images/happy_girl.jpg"
           alt="girl with bright smile"
         />
       </div>

@@ -16,7 +16,7 @@ function NavBar() {
       <div className=" hidden lg:block animate-in fade-in zoom-in bg-white p-4">
         <div className="flex justify-between md:mx-[9rem] items-center">
           <div>
-            <img className="h-[49px]" src="/images/logo.png" alt="logo" />
+            <img className="h-[49px]" src="/images/logo.jpg" alt="logo" />
           </div>
           <div className="flex gap-[20px] xl:gap-[50px] text-[16px] items-center select-none">
             <p
